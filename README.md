@@ -1,114 +1,161 @@
-# 📊 Power BI & Excel Dashboard Projects
+# 📊 Data Analytics Dashboards (Power BI | Tableau | Excel | SQL)
 
 ## 📌 Overview
 
-This repository contains interactive **Power BI** and **Microsoft Excel** dashboards created for data analysis and visualization. These dashboards are designed to transform raw data into meaningful insights using KPIs, charts, and reports that support data-driven decision-making.
+This repository contains end-to-end **Data Analytics projects** built using **Power BI, Tableau, Microsoft Excel, and SQL**. The projects demonstrate practical skills in data extraction, cleaning, analysis, and visualization to deliver meaningful business insights.
 
 
 
 ## 🛠 Tools & Technologies
 
-* **Power BI** (Data Modeling, DAX, Interactive Dashboards)
-* **Microsoft Excel** (Pivot Tables, Charts, Power Query)
-* **SQL** (for data extraction – if applicable)
-* **CSV / Excel datasets**
+* **Power BI** – Data modeling, DAX, interactive dashboards
+* **Tableau** – Visual analytics, calculated fields, filters
+* **Microsoft Excel** – Pivot Tables, Power Query, Charts
+* **SQL** – Data extraction, joins, aggregations, subqueries
+* **Datasets** – CSV / Excel / Relational databases
 
 ---
 
 ## 📂 Project Structure
 
 ```
-📁 Power-BI-Excel-Dashboards
+📁 Data-Analytics-Dashboards
 │
-├── 📁 Power BI Dashboards
-│   ├── Sales_Dashboard.pbix
-│   ├── HR_Analytics.pbix
-│   └── Finance_Dashboard.pbix
+├── 📁 Power BI
+│   ├── Restaurant_Dashboard.pbix
+│   └── Sales_Analytics.pbix
 │
-├── 📁 Excel Dashboards
-│   ├── Sales_Dashboard.xlsx
-│   ├── KPI_Report.xlsx
-│   └── Financial_Analysis.xlsx
+├── 📁 Tableau
+│   ├── Netflix_Analytics.twbx
+│   └── Sales_Dashboard.twbx
+│
+├── 📁 Excel
+│   ├── Superstore_Dashboard.xlsx
+│   └── KPI_Analysis.xlsx
+│
+├── 📁 SQL
+│   ├── data_cleaning.sql
+│   ├── analysis_queries.sql
+│   └── business_insights.sql
 │
 ├── 📁 Dataset
-│   ├── sales_data.csv
-│   ├── employee_data.xlsx
-│   └── finance_data.csv
+│   ├── superstore.xlsx
+│   ├── restaurant_data.csv
+│   └── netflix_data.csv
 │
 └── README.md
 ```
 
 ---
 
-## 📊 Dashboards Included
+## 📊 Power BI Dashboards
 
-### 🔹 Power BI Dashboards
+**Key Features:**
 
 * Interactive KPI cards
-* Slicers and filters for dynamic analysis
 * DAX measures for calculated metrics
-* Drill-down and drill-through features
+* Slicers and drill-down analysis
+* Clean and business-focused layout
 
 **Sample KPIs:**
 
-* Total Sales / Revenue
-* Profit & Profit Margin
-* Growth Percentage
-* Category-wise & Region-wise Analysis
+* Total Revenue
+* Total Orders
+* Average Order Value
+* Monthly & Category-wise Performance
 
 ---
 
-### 🔹 Excel Dashboards
+## 📈 Tableau Dashboards
+
+**Key Features:**
+
+* Interactive visual storytelling
+* Filters and parameters
+* Calculated fields
+* Trend and comparison analysis
+
+**Sample KPIs:**
+
+* Total Movies & TV Shows
+* Content by Genre & Country
+* Year-wise Growth
+* Ratings Distribution
+
+---
+
+## 📑 Excel Dashboards
+
+**Key Features:**
 
 * Pivot Tables & Pivot Charts
-* Dynamic slicers
+* Slicers for dynamic filtering
 * Conditional formatting
-* Automated reports using formulas
+* Automated KPI calculations
 
 **Sample KPIs:**
 
-* Monthly & Yearly Performance
+* Sales & Profit
 * Target vs Actual
-* Trend Analysis
 * Top / Bottom Performing Categories
+* Monthly & Yearly Trends
 
 ---
 
-## 🔍 Key Features
+## 🧮 SQL Projects
 
-* Clean and user-friendly dashboard design
-* Business-focused KPIs
-* Interactive visualizations
-* Real-world datasets
-* Optimized for performance and readability
+**Concepts Covered:**
+
+* SELECT, WHERE, ORDER BY
+* GROUP BY, HAVING
+* INNER / LEFT / RIGHT JOINS
+* Subqueries & CTEs
+* Data cleaning using SQL
+
+**Use Cases:**
+
+* Sales performance analysis
+* Customer segmentation
+* Revenue and trend analysis
 
 ---
 
 ## 🚀 How to Use
 
-### ▶ Power BI Dashboards
+### ▶ Power BI
 
-1. Download the `.pbix` file
-2. Open using **Power BI Desktop**
+1. Download `.pbix` files
+2. Open in **Power BI Desktop**
 3. Refresh data if required
-4. Use slicers and filters to explore insights
+4. Explore dashboards using slicers
 
-### ▶ Excel Dashboards
+### ▶ Tableau
 
-1. Download the `.xlsx` file
-2. Open in **Microsoft Excel (2016 or later)**
-3. Enable editing and refresh data if needed
-4. Use slicers and charts for analysis
+1. Download `.twbx` files
+2. Open in **Tableau Desktop / Tableau Public**
+3. Interact using filters and parameters
+
+### ▶ Excel
+
+1. Open `.xlsx` files in **Microsoft Excel (2016+)**
+2. Enable editing
+3. Use slicers and charts for analysis
+
+### ▶ SQL
+
+1. Open `.sql` files in **MySQL / PostgreSQL / SQL Server**
+2. Execute queries on provided datasets
+3. Modify queries for deeper insights
 
 ---
 
 ## 🎯 Learning Outcomes
 
-* Data cleaning and transformation
-* KPI creation and analysis
+* End-to-end data analytics workflow
+* KPI creation and business analysis
 * Dashboard design best practices
-* Business insight generation
-* Hands-on experience with BI tools
+* Strong hands-on experience with BI tools
+* Improved SQL problem-solving skills
 
 ---
 
@@ -119,10 +166,14 @@ Aspiring Data Analyst | Computer Science Student
 
 ---
 
-## 📬 Feedback & Suggestions
+## ⭐ Support
 
-Feedback and suggestions are welcome! Feel free to raise an issue or connect with me.
+If you find this repository helpful:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 📝 Share feedback or suggestions
 
 ---
 
-⭐ If you find this project useful, don’t forget to **star the repository**!
+📌 *This repository is part of my Data Analyst portfolio.*
